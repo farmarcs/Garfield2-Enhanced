@@ -1,3 +1,5 @@
+![Garfield 2 Enhanced](assets/banner.png)
+
 # Garfield 2 Enhanced
 
 **Unofficial graphical improvements and reverse engineering for Garfield 2 on PlayStation 2.**
