@@ -4,13 +4,13 @@
 
 ![Versão do patch](https://img.shields.io/badge/patch-v0.1-F28C28?style=flat-square) ![Plataforma](https://img.shields.io/badge/plataforma-PS2-3055A5?style=flat-square) ![Emulador](https://img.shields.io/badge/emulador-PCSX2-2677C9?style=flat-square) ![Região](https://img.shields.io/badge/regi%C3%A3o-PAL%20Europe-555555?style=flat-square) ![Experimental](https://img.shields.io/badge/status-experimental-B58105?style=flat-square) ![CRC](https://img.shields.io/badge/CRC-627B8252-555555?style=flat-square)
 
-**Projeto independente de aprimoramento gráfico e engenharia reversa de Garfield 2 para PlayStation 2.**
+**Patch independente No Bloom para Garfield 2 de PlayStation 2, desenvolvido para o PCSX2.**
 
 [**Baixar patch**](patches/SLES-54172_627B8252.pnach) · [Instalação](docs/INSTALLATION.md#português-brasil) · [Notas técnicas](docs/TECHNICAL.md) · [Compatibilidade](docs/COMPATIBILITY.md) · [Histórico](CHANGELOG.md) · [English](README.md)
 
 ## No Bloom — Experimental v0.1
 
-Primeiro patch funcional do projeto. Desativa o efeito de bloom investigado, reduzindo os halos e o ghosting aparente nas cenas testadas pelo autor. Não foram relatados problemas de jogabilidade nesses testes, mas outros efeitos de brilho podem ser afetados. A validação não foi exaustiva.
+O patch No Bloom desativa o efeito de bloom investigado, reduzindo os halos e o ghosting aparente nas cenas testadas pelo autor. Não foram relatados problemas de jogabilidade nesses testes, mas outros efeitos de brilho podem ser afetados. A validação não foi exaustiva.
 
 | Compatibilidade | Valor |
 | --- | --- |
@@ -30,16 +30,6 @@ Primeiro patch funcional do projeto. Desativa o efeito de bloom investigado, red
 
 Consulte o [tutorial completo](docs/INSTALLATION.md#português-brasil).
 
-## Planejamento
-
-| Melhoria | Situação |
-| --- | --- |
-| No Bloom v0.1 | Testado pelo autor; experimental |
-| Correção da cauda | Investigação planejada |
-| Distância de renderização | Investigação planejada |
-| LOD e transições de texturas | Investigação planejada |
-
-O patch de 50 FPS não acompanha este projeto inicial. Sua interação com a animação da cauda ainda precisa ser investigada.
 
 ## Comparações visuais e compatibilidade
 
