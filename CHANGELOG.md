@@ -5,6 +5,8 @@
 - Initial author-tested No Bloom patch, preserved byte-for-byte from the submitted PNACH.
 - English and Brazilian Portuguese documentation.
 - Installation, rollback, compatibility and technical notes.
-- Visual evidence, broader compatibility tests, and official publication remain pending.
+- Six author-captured screenshots across three scenes, with side-by-side comparisons in both languages.
+- Prominent English and Brazilian Portuguese navigation.
+- Broader compatibility tests and official publication remain pending.
 
 No other gameplay or graphical modifications are bundled.
