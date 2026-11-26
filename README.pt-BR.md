@@ -1,3 +1,5 @@
+![Garfield 2 Enhanced](assets/banner.png)
+
 # Garfield 2 Enhanced
 
 **Projeto independente de aprimoramento gráfico e engenharia reversa de Garfield 2 para PlayStation 2.**
