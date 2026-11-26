@@ -1,0 +1,6 @@
+gametitle=Garfield 2 (Europe) (SLES-54172)
+
+[No Bloom - Experimental v0.1]
+description=Impede a chamada da rotina de bloom da engine Zouna no renderizador PS2. Somente SLES-54172 CRC 627B8252. Teste visual em varias fases; pode afetar outros efeitos de brilho.
+author=Garfield2 Lab (analise experimental)
+patch=2,EE,00348440,word,30420000

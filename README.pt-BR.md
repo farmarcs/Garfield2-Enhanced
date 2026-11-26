@@ -1,0 +1,46 @@
+# Garfield 2 Enhanced
+
+**Projeto independente de aprimoramento gráfico e engenharia reversa de Garfield 2 para PlayStation 2.**
+
+[English](README.md) · [Instalação](docs/INSTALLATION.md#português-brasil) · [Notas técnicas](docs/TECHNICAL.md) · [Histórico](CHANGELOG.md)
+
+## No Bloom — Experimental v0.1
+
+Primeiro patch funcional do projeto. Desativa o efeito de bloom investigado, reduzindo os halos e o ghosting aparente nas cenas testadas pelo autor. Não foram relatados problemas de jogabilidade nesses testes, mas outros efeitos de brilho podem ser afetados. A validação não foi exaustiva.
+
+| Compatibilidade | Valor |
+| --- | --- |
+| Jogo | Garfield 2 (Europa) |
+| Emulador | PCSX2 com suporte a patches PNACH por jogo |
+| Serial | `SLES-54172` |
+| CRC | `627B8252` |
+
+## Download e instalação
+
+[Baixar o arquivo PNACH](patches/SLES-54172_627B8252.pnach) (abra o arquivo e selecione Download raw file).
+
+1. Confirme serial e CRC nas propriedades do jogo.
+2. Coloque o PNACH na pasta `patches` configurada no PCSX2, com o nome exato. Se já existir um arquivo local com o mesmo nome, faça backup e acrescente apenas a seção No Bloom ausente, sem sobrescrever os demais patches.
+3. Abra as propriedades do jogo, entre em **Patches** e marque **No Bloom - Experimental v0.1**.
+4. Inicie o jogo do zero. Para desfazer, desmarque o patch e reinicie o jogo.
+
+Consulte o [tutorial completo](docs/INSTALLATION.md#português-brasil).
+
+## Planejamento
+
+| Melhoria | Situação |
+| --- | --- |
+| No Bloom v0.1 | Testado pelo autor; experimental |
+| Correção da cauda | Investigação planejada |
+| Distância de renderização | Investigação planejada |
+| LOD e transições de texturas | Investigação planejada |
+
+O patch de 50 FPS não acompanha este projeto inicial. Sua interação com a animação da cauda ainda precisa ser investigada.
+
+## Comparações visuais e compatibilidade
+
+Imagens de antes e depois serão inseridas após a revisão de cenas equivalentes. Não há homologação oficial pelo PCSX2 ou RetroAchievements. Não utilize patches experimentais para obter conquistas competitivas sem orientação oficial.
+
+## Créditos
+
+Mantenedor: **farmarcs**. Autoria registrada no PNACH: **Garfield2 Lab (analise experimental)**. Projeto independente, sem distribuição de ISO, BIOS, executável original ou recursos extraídos do jogo. Licença pendente de decisão do mantenedor.
