@@ -8,6 +8,7 @@
 - Six author-captured screenshots across three scenes, with side-by-side comparisons in both languages.
 - Prominent English and Brazilian Portuguese navigation.
 - Illustrated installation guide in both languages, with three annotated screenshots, backup and rollback instructions.
+- Technical documentation updated with the observed original instruction, conditional branch, author-reported reversible debugger/PINE tests and verified PNACH SHA-256.
 - Broader compatibility tests and official publication remain pending.
 
 No other gameplay or graphical modifications are bundled.
