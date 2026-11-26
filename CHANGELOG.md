@@ -7,6 +7,7 @@
 - Installation, rollback, compatibility and technical notes.
 - Six author-captured screenshots across three scenes, with side-by-side comparisons in both languages.
 - Prominent English and Brazilian Portuguese navigation.
+- Illustrated installation guide in both languages, with three annotated screenshots, backup and rollback instructions.
 - Broader compatibility tests and official publication remain pending.
 
 No other gameplay or graphical modifications are bundled.

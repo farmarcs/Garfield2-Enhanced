@@ -10,7 +10,7 @@
 
 **Unofficial No Bloom patch for Garfield 2 on PlayStation 2, designed for PCSX2.**
 
-[**Download patch**](patches/SLES-54172_627B8252.pnach) · [Installation](docs/INSTALLATION.md) · [Technical notes](docs/TECHNICAL.md) · [Compatibility](docs/COMPATIBILITY.md) · [Changelog](CHANGELOG.md) · [Visual comparisons](#visual-comparisons)
+[**Download patch**](patches/SLES-54172_627B8252.pnach) · [Illustrated installation](docs/INSTALLATION.md#english) · [Technical notes](docs/TECHNICAL.md) · [Compatibility](docs/COMPATIBILITY.md) · [Changelog](CHANGELOG.md) · [Visual comparisons](#visual-comparisons)
 
 ## No Bloom — Experimental v0.1
 
@@ -32,7 +32,7 @@ The No Bloom patch disables the targeted bloom effect, reducing distracting halo
 3. Open the game's properties, select **Patches**, and enable **No Bloom - Experimental v0.1**.
 4. Start the game from a fresh boot. To undo, disable the patch and restart the game.
 
-See the [full installation guide](docs/INSTALLATION.md) for troubleshooting and backup instructions.
+**[Open the illustrated installation guide](docs/INSTALLATION.md#english)** — step-by-step screenshots, backup and troubleshooting instructions. No external tool is required.
 
 ## Visual comparisons
 

@@ -10,7 +10,7 @@
 
 **Patch independente No Bloom para Garfield 2 de PlayStation 2, desenvolvido para o PCSX2.**
 
-[**Baixar patch**](patches/SLES-54172_627B8252.pnach) · [Instalação](docs/INSTALLATION.md#português-brasil) · [Notas técnicas](docs/TECHNICAL.md) · [Compatibilidade](docs/COMPATIBILITY.md) · [Histórico](CHANGELOG.md) · [Comparações visuais](#comparações-visuais)
+[**Baixar patch**](patches/SLES-54172_627B8252.pnach) · [Tutorial ilustrado](docs/INSTALLATION.md#português-brasil) · [Notas técnicas](docs/TECHNICAL.md) · [Compatibilidade](docs/COMPATIBILITY.md) · [Histórico](CHANGELOG.md) · [Comparações visuais](#comparações-visuais)
 
 ## No Bloom — Experimental v0.1
 
@@ -32,7 +32,7 @@ O patch No Bloom desativa o efeito de bloom investigado, reduzindo os halos e o 
 3. Abra as propriedades do jogo, entre em **Patches** e marque **No Bloom - Experimental v0.1**.
 4. Inicie o jogo do zero. Para desfazer, desmarque o patch e reinicie o jogo.
 
-Consulte o [tutorial completo](docs/INSTALLATION.md#português-brasil).
+**[Abra o tutorial ilustrado de instalação](docs/INSTALLATION.md#português-brasil)** — capturas passo a passo, instruções de backup e solução de problemas. Não é necessário utilizar ferramentas externas.
 
 ## Comparações visuais
 
