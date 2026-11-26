@@ -2,9 +2,11 @@
 
 # Garfield 2 Enhanced
 
+![Versão do patch](https://img.shields.io/badge/patch-v0.1-F28C28?style=flat-square) ![Plataforma](https://img.shields.io/badge/plataforma-PS2-3055A5?style=flat-square) ![Emulador](https://img.shields.io/badge/emulador-PCSX2-2677C9?style=flat-square) ![Região](https://img.shields.io/badge/regi%C3%A3o-PAL%20Europe-555555?style=flat-square) ![Experimental](https://img.shields.io/badge/status-experimental-B58105?style=flat-square) ![CRC](https://img.shields.io/badge/CRC-627B8252-555555?style=flat-square)
+
 **Projeto independente de aprimoramento gráfico e engenharia reversa de Garfield 2 para PlayStation 2.**
 
-[English](README.md) · [Instalação](docs/INSTALLATION.md#português-brasil) · [Notas técnicas](docs/TECHNICAL.md) · [Histórico](CHANGELOG.md)
+[**Baixar patch**](patches/SLES-54172_627B8252.pnach) · [Instalação](docs/INSTALLATION.md#português-brasil) · [Notas técnicas](docs/TECHNICAL.md) · [Compatibilidade](docs/COMPATIBILITY.md) · [Histórico](CHANGELOG.md) · [English](README.md)
 
 ## No Bloom — Experimental v0.1
 
