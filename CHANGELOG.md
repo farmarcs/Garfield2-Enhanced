@@ -9,6 +9,7 @@
 - Prominent English and Brazilian Portuguese navigation.
 - Illustrated installation guide in both languages, with three annotated screenshots, backup and rollback instructions.
 - Technical documentation updated with the observed original instruction, conditional branch, author-reported reversible debugger/PINE tests and verified PNACH SHA-256.
+- MIT license adopted for original patch code and original written documentation; third-party material, screenshots and banner excluded from the grant.
 - Broader compatibility tests and official publication remain pending.
 
 No other gameplay or graphical modifications are bundled.

@@ -8,6 +8,8 @@
 
 ![Versão do patch](https://img.shields.io/badge/patch-v0.1-F28C28?style=flat-square) ![Plataforma](https://img.shields.io/badge/plataforma-PS2-3055A5?style=flat-square) ![Emulador](https://img.shields.io/badge/emulador-PCSX2-2677C9?style=flat-square) ![Região](https://img.shields.io/badge/regi%C3%A3o-PAL%20Europe-555555?style=flat-square) ![Experimental](https://img.shields.io/badge/status-experimental-B58105?style=flat-square) ![CRC](https://img.shields.io/badge/CRC-627B8252-555555?style=flat-square)
 
+![Licença](https://img.shields.io/badge/licença-MIT-green?style=flat-square)
+
 **Patch independente No Bloom para Garfield 2 de PlayStation 2, desenvolvido para o PCSX2.**
 
 [**Baixar patch**](patches/SLES-54172_627B8252.pnach) · [Tutorial ilustrado](docs/INSTALLATION.md#português-brasil) · [Notas técnicas](docs/TECHNICAL.md) · [Compatibilidade](docs/COMPATIBILITY.md) · [Histórico](CHANGELOG.md) · [Comparações visuais](#comparações-visuais)
@@ -70,4 +72,8 @@ Não há homologação oficial pelo PCSX2 ou RetroAchievements. Não utilize pat
 
 ## Créditos
 
-Mantenedor: **farmarcs**. Autoria registrada no PNACH: **Garfield2 Lab (analise experimental)**. Projeto independente, sem distribuição de ISO, BIOS, executável original ou recursos extraídos do jogo. Licença pendente de decisão do mantenedor.
+Mantenedor: **farmarcs**. Autoria registrada no PNACH: **Garfield2 Lab (analise experimental)**. Projeto independente, sem distribuição de ISO, BIOS, executável original ou recursos extraídos do jogo.
+
+## Licença
+
+O código original do patch e a documentação textual original estão disponíveis sob a [licença MIT](LICENSE). Consulte o [escopo da licença e os avisos sobre terceiros](NOTICE.md#português-brasil). Capturas de tela, banner e propriedade intelectual de terceiros estão excluídos da concessão MIT.

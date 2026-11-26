@@ -8,6 +8,8 @@
 
 ![Patch version](https://img.shields.io/badge/patch-v0.1-F28C28?style=flat-square) ![Platform](https://img.shields.io/badge/platform-PS2-3055A5?style=flat-square) ![Emulator](https://img.shields.io/badge/emulator-PCSX2-2677C9?style=flat-square) ![Region](https://img.shields.io/badge/region-PAL%20Europe-555555?style=flat-square) ![Experimental](https://img.shields.io/badge/status-experimental-B58105?style=flat-square) ![CRC](https://img.shields.io/badge/CRC-627B8252-555555?style=flat-square)
 
+![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+
 **Unofficial No Bloom patch for Garfield 2 on PlayStation 2, designed for PCSX2.**
 
 [**Download patch**](patches/SLES-54172_627B8252.pnach) · [Illustrated installation](docs/INSTALLATION.md#english) · [Technical notes](docs/TECHNICAL.md) · [Compatibility](docs/COMPATIBILITY.md) · [Changelog](CHANGELOG.md) · [Visual comparisons](#visual-comparisons)
@@ -72,4 +74,8 @@ This project has not received official approval from RetroAchievements or PCSX2.
 
 Project maintainer: **farmarcs**. Original PNACH credit: **Garfield2 Lab (analise experimental)**. Report reproducible issues through GitHub Issues when the repository becomes public; include your PCSX2 version, renderer, serial/CRC, enabled patches and steps to reproduce.
 
-Independent fan project. No game ISO, BIOS, original executable or extracted game assets are distributed. Licensing is pending maintainer review.
+Independent fan project. No game ISO, BIOS, original executable or extracted game assets are distributed.
+
+## License
+
+Original patch code and original written documentation are available under the [MIT License](LICENSE). See [license scope and third-party notices](NOTICE.md). Screenshots, banner and third-party intellectual property are excluded from the MIT grant.
